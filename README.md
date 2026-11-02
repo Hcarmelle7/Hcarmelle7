@@ -1,4 +1,4 @@
-## Hi there 👋,  Je suis Étudiante Ingénieure en Informatique & Développeuse Web et Mobile
+## Hi there,  Je suis Étudiante Ingénieure en Informatique & Développeuse Web et Mobile
 
 Mon objectif ? Comprendre la machine pour mieux construire le web.
 
